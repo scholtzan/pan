@@ -1,0 +1,5 @@
+Flask
+pyyaml
+tinydb
+pyobjc
+schedule

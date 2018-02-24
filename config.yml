@@ -1,0 +1,2 @@
+plugin_path: plugins/
+database: db/db.json
